@@ -1,7 +1,7 @@
 # Rubber Stopper Liquid-Level Detection
 
 Code for the CSE3000 Research Project:
-**"Automated Liquid-Line Detection in Handheld Syringe Videos: A Comparison of Edge-Based, Segmentation, and Learning-Based Methods"**
+**"Automated Liquid-Line Detection in Handheld Syringe Videos: A Comparison of Edge-Based, Segmentation, and Learning-Based Methods"** Paper link: https://repository.tudelft.nl/record/uuid:7daa6816-c4d2-49f1-95d2-58ef1e8457dd
 
 Four detection methods are implemented and evaluated on an annotated dataset of syringe videos. All methods share the same OBB-based barrel alignment preprocessing step.
 
